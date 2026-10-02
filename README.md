@@ -5,7 +5,6 @@
 <p align="center">
   <img src="./banner.jpeg" alt="Nur Alam Banner" width="100%" />
 </p>
-![Banner]
 ## 📝 About Me
 Passionate about building efficient, responsive, and scalable web applications. I love solving programming problems and learning new modern web technologies.
 
