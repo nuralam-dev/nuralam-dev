@@ -2,7 +2,7 @@
 ### Full Stack Web Developer & Tech Enthusiast
 
 <!-- ব্যানার ইমেজ -->
-![Banner]
+![Banner](./banner.jpeg)
 ## 📝 About Me
 Passionate about building efficient, responsive, and scalable web applications. I love solving programming problems and learning new modern web technologies.
 
