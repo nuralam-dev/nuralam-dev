@@ -14,10 +14,11 @@ Skills: VUE JS / REACT / JS / HTML / CSS / NextJs
 - 📫 How to reach me: nuralam.course@gmail.com 
 - 😄 Pronouns: Pronouns: He/Him 
 - ⚡ Fun fact: Fun fact: I love solving logic puzzles in my free time.
-- 
+  
 <a href="https://github.com/nuralam-dev" target="_blank">
   <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" height="40">
 </a>
+
 
 <a href="https://www.facebook.com/profile.php?id=61591072114721" target="_blank">
   <img src="https://cdn.simpleicons.org/facebook/ffffff" alt="Facebook" height="40">
