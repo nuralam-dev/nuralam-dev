@@ -18,6 +18,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / NextJs
 <a href="https://github.com/nuralam-dev" target="_blank">
   <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" height="40">
 </a>
+<br/>
 
 
 <a href="https://www.facebook.com/profile.php?id=61591072114721" target="_blank">
