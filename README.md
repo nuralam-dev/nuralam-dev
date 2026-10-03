@@ -1,6 +1,4 @@
-![ Full Stack Web Developer & Tech Enthusiast](<!-- ব্যানার ইমেজ --> <p align="center">   <img src="./banner.jpeg" alt="Nur Alam Banner" width="100%" /> </p>)
-
-
+![ Full Stack Web Developer & Tech Enthusiast]<!-- ব্যানার ইমেজ --> <p align="center">   <img src="./banner.jpeg" alt="Nur Alam Banner" width="100%" /> </p>
 ### Hi there 👋, my name is Nur Alam
 ####  Full Stack Web Developer & Tech Enthusiast
 
