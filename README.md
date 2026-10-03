@@ -1,10 +1,10 @@
-# Hi there, I'm Nur Alam 👋
-### Full Stack Web Developer & Tech Enthusiast
-
 <!-- ব্যানার ইমেজ -->
 <p align="center">
   <img src="./banner.jpeg" alt="Nur Alam Banner" width="100%" />
 </p>
+# Hi there, I'm Nur Alam 👋
+### Full Stack Web Developer & Tech Enthusiast
+
 ## 📝 About Me
 Passionate about building efficient, responsive, and scalable web applications. I love solving programming problems and learning new modern web technologies.
 
